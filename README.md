@@ -13,21 +13,21 @@
 
 ---
 
-### 🕹️ CHARACTER SELECT
+### CHARACTER SELECT
 
 ```
 > PLAYER    : ZEN
 > PROGRAM   : BSIT — Software Development
 > GUILD     : Mapúa Malayan Colleges Laguna
 > QUEST     : Become a Software Engineer
-> STATUS    : Still leveling up ⭐
+> STATUS    : Still leveling up 
 ```
 
-### 👾 ORIGIN STORY
+### ORIGIN STORY
 
 My love for programming started in 5th grade
 
-### 🎮 POWER-UPS UNLOCKED
+### POWER-UPS UNLOCKED
 
 <div align="center">
 
@@ -44,11 +44,11 @@ My love for programming started in 5th grade
 
 <div align="center">
 
-*🔓 more power-ups loading as the run continues...*
+*more power-ups loading as the run continues...*
 
 </div>
 
-### 🏆 HIGH SCORES
+### HIGH SCORES
 
 <div align="center">
 
@@ -56,7 +56,7 @@ My love for programming started in 5th grade
 
 </div>
 
-### 🐍 BOSS LEVEL: THE SNAKE
+### BOSS LEVEL: THE SNAKE
 
 <div align="center">
 
