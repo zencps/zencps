@@ -11,8 +11,6 @@
 
 </div>
 
----
-
 ### CHARACTER SELECT
 
 ```
@@ -47,28 +45,6 @@ My love for programming started in 5th grade
 *more power-ups loading as the run continues...*
 
 </div>
-
-### HIGH SCORES
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=zencps&theme=radical&hide_border=true&background=0D0221&ring=F72585&fire=00F5FF&currStreakLabel=F72585" alt="GitHub Streak Stats" />
-
-</div>
-
-### BOSS LEVEL: THE SNAKE
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zencps/zencps/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zencps/zencps/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/zencps/zencps/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
----
 
 <div align="center">
 
