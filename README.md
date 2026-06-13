@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&pause=1200&color=F72585&center=true&vCenter=true&width=650&height=60&lines=INSERT+COIN+TO+CONTINUE...;LOADING+PLAYER_ONE.EXE;BSIT+-+SOFTWARE+DEV+%40+MAPUA;PRESS+START+%E2%96%B6" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&pause=1200&color=F72585&center=true&vCenter=true&width=650&height=60&lines=INSERT+COIN+TO+CONTINUE...;LOADING+ZENCPS.EXE;BSIT+-+SOFTWARE+DEV+%40+MAPUA;PRESS+START+%E2%96%B6" alt="Typing SVG" />
 
 <br/>
 
