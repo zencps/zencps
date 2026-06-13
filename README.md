@@ -8,9 +8,9 @@
 
 ![Status](https://img.shields.io/badge/STATUS-STUDENT-00F5FF?style=for-the-badge&labelColor=1a1a2e)
 
-![Class](https://img.shields.io/badge/CLASS-BSIT%20SOFTWARE%20DEV-FFD700?style=for-the-badge&labelColor=1a1a2e)
+![Class](https://img.shields.io/badge/PROGRAM-BSIT%20SOFTWARE%20DEV-FFD700?style=for-the-badge&labelColor=1a1a2e)
 
-![Guild](https://img.shields.io/badge/GUILD-MAPUA%20-9D4EDD?style=for-the-badge&labelColor=1a1a2e)
+![Guild](https://img.shields.io/badge/GUILD-MAPUA%20MALAYAN%20COLLEGES%20LAGUNA%20-9D4EDD?style=for-the-badge&labelColor=1a1a2e)
 
 </div>
 
