@@ -76,19 +76,6 @@ My love for programming started in 5th grade
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=zencps&show_icons=true&hide_border=true&bg_color=0D0221&title_color=F72585&icon_color=00F5FF&text_color=EAEAEA&include_all_commits=true&count_private=true" alt="Zen's GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zencps&layout=compact&hide_border=true&bg_color=0D0221&title_color=F72585&text_color=EAEAEA" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 <img src="https://streak-stats.demolab.com/?user=zencps&theme=radical&hide_border=true&background=0D0221&ring=F72585&fire=00F5FF&currStreakLabel=F72585" alt="GitHub Streak Stats" />
 
 </div>
