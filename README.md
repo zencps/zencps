@@ -5,11 +5,8 @@
 <br/>
 
 ![Visitors](https://komarev.com/ghpvc/?username=zencps&label=VISITOR+COUNT&color=F72585&style=for-the-badge)
-
 ![Status](https://img.shields.io/badge/STATUS-STUDENT-00F5FF?style=for-the-badge&labelColor=1a1a2e)
-
 ![Class](https://img.shields.io/badge/PROGRAM-BSIT%20SOFTWARE%20DEV-FFD700?style=for-the-badge&labelColor=1a1a2e)
-
 ![Guild](https://img.shields.io/badge/GUILD-MAPUA%20MALAYAN%20COLLEGES%20LAGUNA%20-9D4EDD?style=for-the-badge&labelColor=1a1a2e)
 
 </div>
@@ -32,36 +29,15 @@ My love for programming started in 5th grade
 
 ### 🎮 POWER-UPS UNLOCKED
 
-#### ⚔️ FRONTEND ARSENAL
-
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-</div>
-
-#### 🛡️ BACKEND DUNGEON
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
-
-#### 🧰 TOOLS & INVENTORY
-
-<div align="center">
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
